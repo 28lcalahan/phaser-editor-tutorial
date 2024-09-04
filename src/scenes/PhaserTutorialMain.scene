@@ -1,0 +1,171 @@
+{
+    "id": "4d1b9b5b-a3f4-4708-87c4-3e6f38ed5066",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "PhaserTutorialMain",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "7691228e-ad05-48cd-a843-7dca2c7bba03",
+            "label": "ground_blob_5",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 998,
+            "y": 532,
+            "scaleX": 0.6959016810421847,
+            "scaleY": 0.7306043674858783,
+            "tintTopLeft": "#265c42",
+            "tintTopRight": "#265c42",
+            "tintBottomLeft": "#265c42",
+            "tintBottomRight": "#265c42"
+        },
+        {
+            "type": "Image",
+            "id": "5653c1da-db70-40e4-ac35-338dd5eec73c",
+            "label": "ground_blob_4",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 306,
+            "y": 534,
+            "scaleX": 0.6959016810421847,
+            "scaleY": 0.7306043674858783,
+            "tintTopLeft": "#265c42",
+            "tintTopRight": "#265c42",
+            "tintBottomLeft": "#265c42",
+            "tintBottomRight": "#265c42"
+        },
+        {
+            "type": "Image",
+            "id": "496caed8-15ad-47d1-b33c-9238e8c08d22",
+            "label": "blob",
+            "scope": "CLASS",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 574,
+            "y": 89,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "c8c035d0-ebde-4dca-bec2-e6ca21ad2c67",
+            "label": "blob_1",
+            "scope": "CLASS",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 257,
+            "y": 132,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "9487a2ec-63bb-4039-b16b-ee5d2e9182be",
+            "label": "blob_2",
+            "scope": "CLASS",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 1076,
+            "y": 175,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Rectangle",
+            "id": "7576ed21-dfed-4009-aaf4-5560e63d27d9",
+            "label": "rectangle_1",
+            "x": 638,
+            "y": 683,
+            "scaleX": 12.523231148107016,
+            "scaleY": 1.11335280137961,
+            "isFilled": true,
+            "fillColor": "#3b7b38",
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "39461773-68b6-44cf-ba5e-25efb9b06213",
+            "label": "ground_blob",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 109,
+            "y": 577,
+            "scaleX": 0.3750734387061162,
+            "scaleY": 0.4530602567960848,
+            "tintTopLeft": "#63c74d",
+            "tintTopRight": "#63c74d",
+            "tintBottomLeft": "#63c74d",
+            "tintBottomRight": "#63c74d"
+        },
+        {
+            "type": "Image",
+            "id": "41dc4c72-2592-4c3e-a420-2c3a8bf5198c",
+            "label": "ground_blob_1",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 462,
+            "y": 577,
+            "scaleX": 0.4141229639719269,
+            "scaleY": 0.43566491296612964,
+            "tintTopLeft": "#63c74d",
+            "tintTopRight": "#63c74d",
+            "tintBottomLeft": "#63c74d",
+            "tintBottomRight": "#63c74d"
+        },
+        {
+            "type": "Image",
+            "id": "022bf992-0e6d-48b0-95f5-ffe78c9e599c",
+            "label": "ground_blob_2",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 822,
+            "y": 575,
+            "scaleX": 0.36705051209837025,
+            "scaleY": 0.3984601548845053,
+            "tintTopLeft": "#63c74d",
+            "tintTopRight": "#63c74d",
+            "tintBottomLeft": "#63c74d",
+            "tintBottomRight": "#63c74d"
+        },
+        {
+            "type": "Image",
+            "id": "1fe00363-2d45-419e-ae3b-81468867e8d5",
+            "label": "ground_blob_3",
+            "texture": {
+                "key": "blob"
+            },
+            "x": 1186,
+            "y": 570,
+            "scaleX": 0.4159777155049014,
+            "scaleY": 0.4032882957279351,
+            "tintTopLeft": "#63c74d",
+            "tintTopRight": "#63c74d",
+            "tintBottomLeft": "#63c74d",
+            "tintBottomRight": "#63c74d"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
